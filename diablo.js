@@ -22,8 +22,8 @@ chats: {},
 ...(global.db || {})
 }
 
-global.ownerName = 'AldAja'
-global.ownerNumber = ["6285697175057@s.whatsapp.net"]
+global.ownerName = 'BOT PUNYA RIZZ STORE'
+global.ownerNumber = ["6281553885307@s.whatsapp.net"]
 global.prefa = ['','.']
 global.mess = {
 wait: 'Wait Sis Please be patient',
@@ -218,9 +218,9 @@ switch (command) {
 case 'allmenu':
 case 'help':
 case 'rohmenu':
-jiren = `  ° Owner  : AldAja
+jiren = `  ° Owner  : RIZZ STORE
 ° Version : -
-° Bot Name : Satanic666
+° Bot Name : BOT PUNYA RIZZ STORE
 
 
 ╔─═─═⊱ 「 𝐎𝐓𝐇𝐄𝐑 𝐌𝐄𝐍𝐔 」 ─═─═⬣
@@ -304,7 +304,7 @@ jiren = `  ° Owner  : AldAja
 ┗━━━━━━━━━━━━━━━━━━⬣
 ┏━━⬣  Thanks To  友
 ┃ 🔥 All Creator Bot
-┃ 🔥 AldAja
+┃ 🔥 BOT PUNYA RIZZ STORE
 ┃ 🔥 YANG BAGI SC NYA🤣
 ┗━━⬣  ⿻ Botz Wa ⿻`
 
@@ -312,8 +312,8 @@ diablobotwhatsapp.reply(jiren)
 break
 
 case 'listjualan':
-jiren = `Selamat Datang Di AldSTORE
-List Menu Jualan AldSATANIC 666
+jiren = `Selamat Datang Di RIZZSTORE
+List Menu Jualan RIZZSTORE
 ┏━━━━━━━━━━⬣ 
 ┃ •Script
 ┃ •Jasabot
@@ -340,10 +340,10 @@ diablobotwhatsapp.reply(`JOINN MURBUG KE ROHMAN KAK HARGA? 1K+`)
 case 'adminbug':
 diablobotwhatsapp.reply(`KAKA KEPENGIN OPEN MURID BUG? PAKE ADMIN GRUP AJA KAK JADI KKAK BISA OPEN MURID BUG`)
 case 'adminutama':
-diablobotwhatsapp.reply(`*ADMIN 𝙆𝙮𝙡𝙤𝙤𝙣*
+diablobotwhatsapp.reply(`*ADMIN RIZZ STORE*
 
 ADMIN UTAMA : KE IG AJH NAMA IG 
-IG = 𝙞𝙨𝙞 𝙨𝙚𝙣𝙙𝙞𝙧𝙞
+IG = ?
 
 KAKA DI SANA BISA TANYA TANYA YA KAK`)
 case 'restart':{
